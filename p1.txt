@@ -7,3 +7,5 @@ BE CS
 
 New branch is created 
 
+user2 branch is created
+user2 is temporary
