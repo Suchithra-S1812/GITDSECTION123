@@ -6,5 +6,9 @@ D - section
 BE CS
 
 New branch is created 
+<<<<<<< HEAD
 name is done
+=======
+the new branch name is feature-branch
+>>>>>>> parent of c73ecba (Update p1.txt)
 
